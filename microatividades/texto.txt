@@ -1,0 +1,3 @@
+Python permite ler e escrever arquivos.
+O bloco with fecha o arquivo automaticamente.
+Os dados podem ser persistidos para uso posterior.
